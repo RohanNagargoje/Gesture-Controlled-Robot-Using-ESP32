@@ -22,7 +22,7 @@ This module uses a 6-axis motion sensor (accelerometer + gyroscope) to detect ha
 
 ---
 
-## **3. Motor Driver (L298N or similar) (x2)**
+## **3. Motor Driver (L298N or similar)**
 
 ### Description:
 The L298N motor driver is used to control the motors for the robot, allowing forward, backward, and turning movements.
