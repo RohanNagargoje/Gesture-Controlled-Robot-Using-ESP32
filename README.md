@@ -1,6 +1,6 @@
 ## Gesture-Controlled Robot Using ESP32
 
-#### **Overview**
+#### Overview
 This project demonstrates how to build a gesture-controlled robot using ESP32 microcontrollers and an MPU6050 sensor mounted on a glove. The robot is controlled wirelessly via MQTT, and its movements (forward, backward, left, right, and stop) are dictated by hand gestures. This interactive project is perfect for learning about embedded systems, wireless communication, and gesture recognition.
 
 ---
